@@ -5,6 +5,7 @@
 build/
 dist/
 venv/
+clrs_dataset/
 
 # Mac OS
 .DS_Store
